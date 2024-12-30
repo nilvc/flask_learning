@@ -1,5 +1,4 @@
-from flask import Blueprint
-from flask import request
+from flask import Blueprint , request
 from db import db
 from models.authorsModel import Authors
 
